@@ -116,7 +116,7 @@ s.source_files  = 'MogeanSDK/MogeanSDK.framework/Headers/*.h'
 s.vendored_frameworks = 'MogeanSDK/MogeanSDK.framework'
 s.ios.deployment_target = '8.0'
 
-s.dependency "SwiftyJSON"
+#s.dependency "SwiftyJSON"
 
 s.requires_arc = true
 
